@@ -46,7 +46,7 @@ This Portfolio Website with Advanced Animations demonstrates my expertise in ful
 
 This project strengthens my ability to build modern, scalable, and interactive web applications. It highlights both my technical skills and creativity in web design and animation implementation.
 
-**OUTPUT OF THE TASK**:
+**OUTPUT OF THE TASK**
 
 ![Image](https://github.com/user-attachments/assets/a84fef3f-2e02-4baf-a74f-4004dd77e3fe)
 ![Image](https://github.com/user-attachments/assets/7e528749-2985-49b7-b986-611a6acb389a)
