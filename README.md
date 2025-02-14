@@ -45,3 +45,9 @@ Conclusion
 This Portfolio Website with Advanced Animations demonstrates my expertise in full-stack development, frontend animations, and backend integration. Using React for a dynamic UI, Node.js for backend operations, and MongoDB for efficient data management, I created a professional, high-performance portfolio. The use of Framer Motion and GSAP adds engaging animations, enhancing user experience.
 
 This project strengthens my ability to build modern, scalable, and interactive web applications. It highlights both my technical skills and creativity in web design and animation implementation.
+
+**OUTPUT OF THE TASK**:
+
+![Image](https://github.com/user-attachments/assets/a84fef3f-2e02-4baf-a74f-4004dd77e3fe)
+![Image](https://github.com/user-attachments/assets/7e528749-2985-49b7-b986-611a6acb389a)
+![Image](https://github.com/user-attachments/assets/4f0a4400-9bb4-437d-93ad-d6ed9a91af6f)
