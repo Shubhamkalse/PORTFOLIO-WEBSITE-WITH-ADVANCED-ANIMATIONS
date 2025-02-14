@@ -1,0 +1,80 @@
+{
+  "name": "my-resume",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^15.2.10",
+    "@angular/common": "^15.2.0",
+    "@angular/compiler": "^15.2.0",
+    "@angular/core": "^15.2.0",
+    "@angular/forms": "^15.2.0",
+    "@angular/platform-browser": "^15.2.0",
+    "@angular/platform-browser-dynamic": "^15.2.0",
+    "@angular/router": "^15.2.0",
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@popperjs/core": "^2.11.8",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "bootstrap": "^5.3.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "mysql": "^2.18.1",
+    "ngx-owl-carousel-o": "^15.0.1",
+    "nodemailer": "^6.9.15",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.7.0",
+    "zone.js": "~0.12.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~15.2.0",
+    "@angular/cli": "~15.2.11",
+    "@angular/compiler-cli": "^15.2.0",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.5.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.0.0",
+    "typescript": "^4.9.5"
+  },
+  "overrides": {
+    "copy-template-dir": {
+      "braces": " 3.0.3"
+    },
+    "@netlify/some-package-name": {
+      "got": "14.4.3"
+    },
+    "cacheable-request": {
+      "http-cache-semantics": " 4.1.1"
+    },
+    "lodash.set": "4.3.2",
+    "lodash.template": "4.5.0",
+    "detective-postcss": {
+      "postcss": "8.4.47"
+    },
+    "static-server": "2.2.1",
+    "node-pre-gyp": {
+      "tar": "7.4.3"
+    },
+    "webpack": "5.95.0",
+    "cpy": {
+      "braces": "3.0.3"
+    },
+    "netlify-cli": {
+      "cookie": "1.0.0"
+    },
+    "download": {
+      "got": "14.4.3"
+    }
+  }
+}
